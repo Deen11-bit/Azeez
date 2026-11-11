@@ -13,7 +13,7 @@ How to run it
 3. Open the project folder.
 4. Run the following command:
 
-python engineering_converter.py
+Engineering_unit_converter.py
 
 Sample output
 
